@@ -30,7 +30,3 @@ The results indicate that machine learning can provide meaningful insights into 
 - Pandas, NumPy
 - Scikit-learn
 - Matplotlib, Seaborn
-
-## Author
-Jędrzej Kocięcki - Applied Computer Science, Wrocław University of Science and Technology
-
